@@ -7,6 +7,7 @@ Pour générer un poème, le programme se basera sur la base de données __*DEM 
 
 
 ## Utilisation
+
 Afin d'utiliser le programme, veuillez éxecuter le fichier <code>start.py</code> situé dans le dossier <code>Code_poeme/</code> 
 
 
