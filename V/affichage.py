@@ -121,7 +121,7 @@ def banner(flower=True,txt=True,info=True):
         t += "\n\n\n"
     if txt == True:
         t += """
-    Mon Poeme
+    Mon Poeme..........
 
             """
         t += "\n\n"
