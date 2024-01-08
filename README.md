@@ -24,3 +24,22 @@ Afin d'utiliser le programme, veuillez éxecuter le fichier <code>start.py</code
 * Suivre les instructions de la console.
 
 ![Alt text](image.png)
+
+ ## Membres
+
+| VESPUCE              Jérémi        |
+
+
+| HOUNMENOU           Moise          |
+
+
+| DIOUF               Sylvain        |
+
+
+| AARAB              Yasmine         |
+
+
+
+
+
+
